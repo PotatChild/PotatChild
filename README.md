@@ -14,14 +14,14 @@ Hello there, I'm DC14 and I am a tech enthusiast who has many interests yet has 
 
 ### ❓ Quick FAQ
 
-- 🔭 I’m currently working on: This Portfolio, a blog website and hopefully some cybersec or Data Analist projects.
-- 🌱 I’m currently learning: Reverse Engineering and Data analytics
-- 👯 I’m looking to collaborate on: Game Dev, Cybersec and Data Analysis projects
-- 🤔 I’m looking for help with: Getting a Job
-- 💬 Ask me about:
-- 📫 How to reach me:
-- 😄 Pronouns:
-- ⚡ Fun fact:
+- 🔭 **I’m currently working on:** This Portfolio, a blog website and hopefully some cybersec or Data Analist projects.
+- 🌱 **I’m currently learning:** Reverse Engineering and Data analytics
+- 👯 **I’m looking to collaborate on:** Game Dev, Cybersec and Data Analysis projects
+- 🤔 **I’m looking for help with:** Getting a Job
+- 💬 **Ask me about:**
+- 📫 **How to reach me:**
+- 😄 **Pronouns:**
+- ⚡ **Fun fact:**
 
 <!--
 **PotatChild/PotatChild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
