@@ -14,7 +14,7 @@ Hello there, I'm DC14 and I am a tech enthusiast who has many interests in the t
 
 ### ❓ Quick FAQ
 
-- 🔭 **I’m currently working on:** This Portfolio, a blog website and hopefully some cybersec or Data Analist projects.
+- 🔭 **I’m currently working on:** This Portfolio, a blog website and hopefully some Cybersec or Data Analyst projects.
 - 🌱 **I’m currently learning:** Data analytics
 - 👯 **I’m looking to collaborate on:** Game Dev and Data Analysis projects
 - 🤔 **I’m looking for help with:** Getting a Job
