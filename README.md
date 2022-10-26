@@ -2,7 +2,7 @@
 
 **`Sometimes a Dev, other times Cyber-Security Enthusiast, all time Potato`**
 
-Hello there, I'm DC14 and I am a tech enthusiast who has many interests yet has a tendency to break things so I sometimes study that. Throughout my Github you will be able to see a variety of projects that I have created through my coding journey and my personal journey to find my tech niche.
+Hello there, I'm DC14 and I am a tech enthusiast who has many interests in the technological field yet has a tendency to break things so I sometimes study that. Throughout my Github you will be able to see a variety of projects that I have created through my coding journey and my personal journey to find my tech niche.
 
 #
 
