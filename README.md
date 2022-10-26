@@ -8,7 +8,7 @@ Hello there, I'm DC14 and I am a tech enthusiast who has many interests in the t
 
 ### 📰 Latest Blog Posts
 
-*Currently in prpgress*
+*Currently in progress*
 
 #
 
@@ -19,7 +19,7 @@ Hello there, I'm DC14 and I am a tech enthusiast who has many interests in the t
 - 👯 **I’m looking to collaborate on:** Game Dev and Data Analysis projects
 - 🤔 **I’m looking for help with:** Getting a Job
 - 💬 **Ask me about:** Anything that won't Dox me
-- 📫 **How to reach me:** If you go through the streets and watch someone with a lap top peeking out of a cardboard box and using his neighbors wifi than that should be me. Alternatively you can contact me via email (#########@gmail.com)
+- 📫 **How to reach me:** If you go through the streets and watch someone with a laptop peeking out of a cardboard box and using his neighbors wifi than that should be me. Alternatively you can contact me via email (#########@gmail.com)
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I'm not an actual potato and despite my humorous approach to things if something serious needs to be dealt in a project I shall tackle the problem with all seriousness required.
 
