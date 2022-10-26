@@ -1,7 +1,28 @@
 # :computer: The Computer Potato :potato:
 
-**`Sometimes a Dev, other times a Cybersecurity enthusiast, all time potato`**
+**`Sometimes a Dev, other times Cyber-Security Enthusiast, all time Potato`**
 
+Hello there, I'm DC14 and I am a tech enthusiast who has many interests yet has a tendency to break things so I study that (Cybersec)
+
+#
+
+### :newspaper: Latest Blog Posts
+
+*Currently in prpgress*
+
+#
+
+<details>
+ <summary><h3>:question: Quick FAQ</h3></summary>
+  - 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+  
 <!--
 **PotatChild/PotatChild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +37,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
