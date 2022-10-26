@@ -1,4 +1,4 @@
-### Hi there 👋
+# :computer: The Computer Potato :potato:
 
 <!--
 **PotatChild/PotatChild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
